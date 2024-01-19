@@ -15,3 +15,13 @@ We use these Maybe-styled emojis wherever possible. Discord, the app, marketing,
 3. [Submit your emoji as a new Issue](https://github.com/maybe-finance/emojis/issues) and be sure to include a preview of the emoji as well as the Figma file you made it in!
 
 We'll then review it and either provide some feedback or get it merged in to the main repo.
+
+## What is Maybe?
+
+Maybe is a personal finance and wealth management app! And it's completely open-source!
+
+### Get involved:
+* GitHub: https://github.com/maybe-finance/maybe
+* Discord: https://link.maybe.co/discord
+* Twitter: https://twitter.com/maybe
+* Web: https://maybe.co

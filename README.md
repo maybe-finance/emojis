@@ -1,3 +1,5 @@
+![maybe-emojis](https://github.com/maybe-finance/emojis/assets/35243/f08aa49c-34f9-44aa-9ef6-89b5cf77ed59)
+
 # Maybe emojis! Maybmojis?
 
 We use these Maybe-styled emojis wherever possible. Discord, the app, marketing, etc. And we'd love your help making more of them!
